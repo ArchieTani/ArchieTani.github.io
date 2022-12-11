@@ -91,8 +91,6 @@ params:
 
             - Do give a 🌟 on Github !
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
   socialIcons:
     - name: twitter
       url: "https://twitter.com/mariotani25"
