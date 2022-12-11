@@ -9,7 +9,25 @@
       <link>https://ArchieTani.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 14:23:45 +0700</lastBuildDate><atom:link href="https://ArchieTani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 20:17:28 +0700</lastBuildDate><atom:link href="https://ArchieTani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://ArchieTani.github.io/tags/linux/</link>
+      <pubDate>Sun, 11 Dec 2022 20:17:28 +0700</pubDate>
+      
+      <guid>https://ArchieTani.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voidlinux</title>
+      <link>https://ArchieTani.github.io/tags/voidlinux/</link>
+      <pubDate>Sun, 11 Dec 2022 20:17:28 +0700</pubDate>
+      
+      <guid>https://ArchieTani.github.io/tags/voidlinux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>archlinux</title>
       <link>https://ArchieTani.github.io/tags/archlinux/</link>

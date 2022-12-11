@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ArchieTani.github.io/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
+    <loc>https://ArchieTani.github.io/tags/linux/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
+    <loc>https://ArchieTani.github.io/posts/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
+    <loc>https://ArchieTani.github.io/tags/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
+    <loc>https://ArchieTani.github.io/posts/void-linux/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
+    <loc>https://ArchieTani.github.io/tags/voidlinux/</loc>
+    <lastmod>2022-12-11T20:17:28+07:00</lastmod>
+  </url><url>
     <loc>https://ArchieTani.github.io/posts/arch-install-using-archinstaller/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/</loc>
-    <lastmod>2022-12-11T14:23:45+07:00</lastmod>
-  </url><url>
     <loc>https://ArchieTani.github.io/tags/archlinux/</loc>
-    <lastmod>2022-12-11T14:23:45+07:00</lastmod>
-  </url><url>
-    <loc>https://ArchieTani.github.io/posts/</loc>
-    <lastmod>2022-12-11T14:23:45+07:00</lastmod>
-  </url><url>
-    <loc>https://ArchieTani.github.io/tags/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
     <loc>https://ArchieTani.github.io/posts/arch-install/</loc>
