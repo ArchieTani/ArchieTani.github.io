@@ -39,7 +39,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -93,8 +93,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/mariotani25"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: stackoverflow
+      # url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/ArchieTani/ArchieTani.github.io"
 
