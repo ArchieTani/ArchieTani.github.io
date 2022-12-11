@@ -2,12 +2,12 @@
 </span></span><span class=line><span class=cl>n 
 </span></span><span class=line><span class=cl>p 
 </span></span><span class=line><span class=cl><span class=m>1</span>
-</span></span><span class=line><span class=cl>  
+</span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>+512M 
 </span></span><span class=line><span class=cl>n 
 </span></span><span class=line><span class=cl>p 
 </span></span><span class=line><span class=cl><span class=m>2</span>
-</span></span><span class=line><span class=cl>  
+</span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl><span class=o>(</span>default<span class=o>)</span> 
 </span></span><span class=line><span class=cl>w
 </span></span></code></pre></div><p>This will create a new partition table on the hard drive and create two partitions - a 512MB boot partition and a root partition. The root partition will take up the remaining space on the hard drive.</p><p>Next, run the following commands to format the partitions and mount them:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>mkfs.ext4 /dev/sda1 

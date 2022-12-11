@@ -19,5 +19,33 @@
       <description>Desc Text.</description>
     </item>
     
+    <item>
+      <title>Arch Install Using Archinstaller</title>
+      <link>https://ArchieTani.github.io/posts/arch-install-using-archinstaller/</link>
+      <pubDate>Sun, 11 Dec 2022 14:23:45 +0700</pubDate>
+      
+      <guid>https://ArchieTani.github.io/posts/arch-install-using-archinstaller/</guid>
+      <description>How to Install Arch Linux Using Archinstaller Arch Linux is a popular, lightweight and flexible Linux distribution that is known for its simplicity and customization. It is suitable for users who want to have full control over their system and want to build it from scratch.
+Installing Arch Linux can be a daunting task for beginners, especially if you are not familiar with the command line. But don&amp;rsquo;t worry, there is a tool called Archinstaller that makes the process much easier and faster.</description>
+    </item>
+    
+    <item>
+      <title>Arch Install (Minimal)</title>
+      <link>https://ArchieTani.github.io/posts/arch-install/</link>
+      <pubDate>Sun, 11 Dec 2022 14:04:33 +0700</pubDate>
+      
+      <guid>https://ArchieTani.github.io/posts/arch-install/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Install</title>
+      <link>https://ArchieTani.github.io/posts/ubuntu-install/</link>
+      <pubDate>Sun, 11 Dec 2022 13:57:44 +0700</pubDate>
+      
+      <guid>https://ArchieTani.github.io/posts/ubuntu-install/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
   </channel>
 </rss>
