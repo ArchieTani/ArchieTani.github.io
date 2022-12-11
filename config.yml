@@ -3,13 +3,13 @@ title: ArchieNote
 paginate: 5
 theme: PaperMod
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-enableInlineShortcodes: true
 
 # googleAnalytics: UA-123-45
 
@@ -66,19 +66,19 @@ params:
     iconHeight: 30
 
   # profile-mode
-  # profileMode:
-  #   enabled: false # needs to be explicitly set
-  #   title: ExampleSite
-  #   subtitle: "This is subtitle"
-  #   imageUrl: "<img location>"
-  #   imageWidth: 120
-  #   imageHeight: 120
-  #   imageTitle: my image
-  #   buttons:
-  #     - name: Posts
-  #       url: posts
-  #     - name: Tags
-  #       url: tags
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ArchieNote
+    # subtitle: "This is subtitle"
+    imageUrl: "#"
+    # imageWidth: 120
+    # imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -135,15 +135,16 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 10
     # - identifier: example
     #   name: archie.org
     #   url: https://example.org
     - name: Archives
       url: archives
+      weight: 5
     - name: Search
       url: search/
-      weight: 30
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
