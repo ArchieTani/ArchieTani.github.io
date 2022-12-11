@@ -1,4 +1,4 @@
-baseURL: "https://ArchieTani.github.io/website"
+baseURL: "https://ArchieTani.github.io"
 title: ArchieNote
 paginate: 5
 theme: PaperMod
