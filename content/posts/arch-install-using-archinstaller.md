@@ -3,7 +3,7 @@ title: "Arch Install Using Archinstaller"
 date: 2022-12-11T14:23:45+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["archlinux"]
+tags: ["Archlinux", "Linux"]
 # categories: ["Linux"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors

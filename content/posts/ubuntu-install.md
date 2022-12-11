@@ -3,7 +3,7 @@ title: "Ubuntu Install"
 date: 2022-12-11T13:57:44+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["ubuntu"]
+tags: ["ubuntu", "Linux"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -3,7 +3,7 @@ title: "Arch Install (Minimal)"
 date: 2022-12-11T14:04:33+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["archlinux"]
+tags: ["Archlinux", "Linux"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true

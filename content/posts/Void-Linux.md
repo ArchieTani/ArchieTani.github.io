@@ -1,7 +1,7 @@
 ---
 title: "Void Linux"
 date: 2022-12-11T20:17:28+07:00
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Voidlinux", "Linux"]
@@ -70,12 +70,12 @@ fdisk /dev/sda
 n 
 p 
 1
-  
+
 +512M 
 n 
 p 
 2
-  
+
 (default) 
 w
 ```
