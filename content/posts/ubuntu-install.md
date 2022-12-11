@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -30,11 +30,10 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: ""
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
----
+# editPost:
+#    URL: ""
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 ---
 
 # How to Install Ubuntu

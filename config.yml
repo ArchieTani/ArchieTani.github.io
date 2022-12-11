@@ -17,7 +17,6 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-
 outputs:
     home:
         - HTML
@@ -28,7 +27,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ArchieNote
   description: "My Note Blog"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -55,11 +54,11 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
@@ -97,7 +96,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/ArchieTani"
+      url: "https://github.com/ArchieTani/ArchieTani.github.io"
 
   # analytics:
   #   google:
@@ -113,20 +112,20 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ArchieTani/website/content"
+    URL: "https://github.com/ArchieTani/ArchieTani.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     # - identifier: categories
@@ -140,6 +139,8 @@ menu:
     # - identifier: example
     #   name: archie.org
     #   url: https://example.org
+    - name: Archives
+      url: archives
     - name: Search
       url: search/
       weight: 30
@@ -152,7 +153,7 @@ markup:
   highlight:
     noClasses: false
     # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: dracula

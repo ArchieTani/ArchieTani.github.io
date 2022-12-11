@@ -6,7 +6,7 @@ date: 2022-12-11T14:23:45+07:00
 tags: ["Archlinux", "Linux"]
 # categories: ["Linux"]
 author: "Me"
-# author: ["Me", "You"] # multiple authors
+# author: ["e", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
@@ -32,11 +32,10 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: ""
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
----
+# editPost:
+#    URL: ""
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 ---
 
 ## How to Install Arch Linux Using Archinstaller
