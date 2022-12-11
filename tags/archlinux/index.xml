@@ -26,7 +26,9 @@ Installing Arch Linux can be a daunting task for beginners, especially if you ar
       <pubDate>Sun, 11 Dec 2022 14:04:33 +0700</pubDate>
       
       <guid>https://ArchieTani.github.io/posts/arch-install/</guid>
-      <description>Desc Text.</description>
+      <description>How to Install ArchLinux ArchLinux is a Linux-based operating system that uses the KISS (Keep It Simple, Stupid) principle. This makes ArchLinux easy to use for users who want to customize their operating system according to their needs.
+Here are the steps for installing ArchLinux:
+Preparation Download the ArchLinux ISO from its site. Create a bootable USB or CD/DVD using the ISO. Make sure your computer is connected to the internet.</description>
     </item>
     
   </channel>

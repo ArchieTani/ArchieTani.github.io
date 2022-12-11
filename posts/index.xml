@@ -16,7 +16,8 @@
       <pubDate>Sun, 11 Dec 2022 20:17:28 +0700</pubDate>
       
       <guid>https://ArchieTani.github.io/posts/void-linux/</guid>
-      <description>Desc Text.</description>
+      <description>Introduction to Void Linux Void Linux is a lightweight, independent, rolling release operating system that is known for its simplicity and speed. It is a distribution that is built from scratch, without using any pre-existing codebase, which makes it unique in the world of Linux distributions.
+What sets Void Linux apart from other distributions? One of the main differences between Void Linux and other Linux distributions is its package management system.</description>
     </item>
     
     <item>
@@ -35,7 +36,9 @@ Installing Arch Linux can be a daunting task for beginners, especially if you ar
       <pubDate>Sun, 11 Dec 2022 14:04:33 +0700</pubDate>
       
       <guid>https://ArchieTani.github.io/posts/arch-install/</guid>
-      <description>Desc Text.</description>
+      <description>How to Install ArchLinux ArchLinux is a Linux-based operating system that uses the KISS (Keep It Simple, Stupid) principle. This makes ArchLinux easy to use for users who want to customize their operating system according to their needs.
+Here are the steps for installing ArchLinux:
+Preparation Download the ArchLinux ISO from its site. Create a bootable USB or CD/DVD using the ISO. Make sure your computer is connected to the internet.</description>
     </item>
     
     <item>
@@ -44,7 +47,9 @@ Installing Arch Linux can be a daunting task for beginners, especially if you ar
       <pubDate>Sun, 11 Dec 2022 13:57:44 +0700</pubDate>
       
       <guid>https://ArchieTani.github.io/posts/ubuntu-install/</guid>
-      <description>Desc Text.</description>
+      <description>How to Install Ubuntu As one of the popular open-source operating systems, Ubuntu is a good choice for users who want to try a new operating system. Here are the steps to install Ubuntu on your computer.
+Preparation Download the Ubuntu installation file from the official website Download Ubuntu Desktop | Download | Ubuntu. Choose the version that suits your needs.
+Create a bootable USB or DVD. You can use applications like Rufus or Etcher to create a bootable USB.</description>
     </item>
     
   </channel>

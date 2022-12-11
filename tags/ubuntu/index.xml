@@ -16,7 +16,9 @@
       <pubDate>Sun, 11 Dec 2022 13:57:44 +0700</pubDate>
       
       <guid>https://ArchieTani.github.io/posts/ubuntu-install/</guid>
-      <description>Desc Text.</description>
+      <description>How to Install Ubuntu As one of the popular open-source operating systems, Ubuntu is a good choice for users who want to try a new operating system. Here are the steps to install Ubuntu on your computer.
+Preparation Download the Ubuntu installation file from the official website Download Ubuntu Desktop | Download | Ubuntu. Choose the version that suits your needs.
+Create a bootable USB or DVD. You can use applications like Rufus or Etcher to create a bootable USB.</description>
     </item>
     
   </channel>
