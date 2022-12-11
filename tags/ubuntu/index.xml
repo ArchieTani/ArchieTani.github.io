@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ubuntu on ArchieNote</title>
-    <link>https://ArchieTani.github.io/tags/ubuntu/</link>
+    <link>https://ArchieTani.github.io/website/tags/ubuntu/</link>
     <description>Recent content in ubuntu on ArchieNote</description>
     <image>
-      <url>https://ArchieTani.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ArchieTani.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ArchieTani.github.io/website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ArchieTani.github.io/website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 13:57:44 +0700</lastBuildDate><atom:link href="https://ArchieTani.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 13:57:44 +0700</lastBuildDate><atom:link href="https://ArchieTani.github.io/website/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu Install</title>
-      <link>https://ArchieTani.github.io/posts/ubuntu-install/</link>
+      <link>https://ArchieTani.github.io/website/posts/ubuntu-install/</link>
       <pubDate>Sun, 11 Dec 2022 13:57:44 +0700</pubDate>
       
-      <guid>https://ArchieTani.github.io/posts/ubuntu-install/</guid>
+      <guid>https://ArchieTani.github.io/website/posts/ubuntu-install/</guid>
       <description>Desc Text.</description>
     </item>
     

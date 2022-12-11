@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ArchieTani.github.io/posts/arch-install-using-archinstaller/</loc>
+    <loc>https://ArchieTani.github.io/website/posts/arch-install-using-archinstaller/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/</loc>
+    <loc>https://ArchieTani.github.io/website/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/tags/archlinux/</loc>
+    <loc>https://ArchieTani.github.io/website/tags/archlinux/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/posts/</loc>
+    <loc>https://ArchieTani.github.io/website/posts/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/tags/</loc>
+    <loc>https://ArchieTani.github.io/website/tags/</loc>
     <lastmod>2022-12-11T14:23:45+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/posts/arch-install/</loc>
+    <loc>https://ArchieTani.github.io/website/posts/arch-install/</loc>
     <lastmod>2022-12-11T14:04:33+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/tags/ubuntu/</loc>
+    <loc>https://ArchieTani.github.io/website/tags/ubuntu/</loc>
     <lastmod>2022-12-11T13:57:44+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/posts/ubuntu-install/</loc>
+    <loc>https://ArchieTani.github.io/website/posts/ubuntu-install/</loc>
     <lastmod>2022-12-11T13:57:44+07:00</lastmod>
   </url><url>
-    <loc>https://ArchieTani.github.io/categories/</loc>
+    <loc>https://ArchieTani.github.io/website/categories/</loc>
   </url><url>
-    <loc>https://ArchieTani.github.io/search/</loc>
+    <loc>https://ArchieTani.github.io/website/search/</loc>
   </url>
 </urlset>
